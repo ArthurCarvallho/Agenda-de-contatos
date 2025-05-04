@@ -1,4 +1,4 @@
-//Desenvolvido por: Arthur Carvalho; Guilherme Borges; Pablo Henrique; Breno Borges.
+//Desenvolvido por: Arthur Carvalho;
 
 #include <stdio.h>
 #include <string.h>
